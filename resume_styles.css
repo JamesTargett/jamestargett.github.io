@@ -1,0 +1,146 @@
+body {
+	color: #474747;
+	background-color: #fff;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.skills {
+	width: 500px;
+	float: left;
+	text-align: left;
+	padding: 0;
+	margin: 20px auto 20px;
+}
+
+.xp {
+	width: 390px;
+	float: right;
+	margin: 20px 0 20px;
+	line-height: 1.1em;
+}
+
+.edu {
+	width: 390px;
+	float: right;
+	margin: 0 0 20px;
+	line-height: 1.1em;
+}
+
+.contactinfo {
+	width: 390px;
+	text-align: center;
+	float: right;
+}
+
+.big {
+	font-size: 14em;
+	line-height: 0.9em;
+	margin: 40px auto 0;
+}
+
+.medium {
+	font-size: 4em;
+	line-height: 1.3em;
+	margin: 5px auto;
+}
+
+.small {
+	font-size: 1.5em;
+	line-height: 1.9em;
+	margin: 0 auto 20px;
+}
+
+.contact {
+	font-size: 4em;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	line-height: 1em;
+}
+
+.who {
+	font-size: 1.2em;
+	font-family: Roboto, sans-serif;
+	line-height: 1.4em;
+	margin: 20px auto 20px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 3em;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+}
+
+h3 {
+	font-size: 1.8em;
+	margin: 15px auto 20px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p.contact {
+	text-align: center;
+	line-height: 1.5em;
+	font-family: Roboto, sans-serif;
+}
+
+div.skills p {
+	font-size: 1em;
+	font-family: Roboto, serif;
+	line-height: 180%;
+	margin: 10px auto 20px;
+}
+
+div.edu p {
+	font-size: 1em;
+	font-family: Roboto, serif;
+	line-height: 150%;
+	margin: 10px auto 20px;
+}
+
+div.xp p {
+	font-size: 1em;
+	font-family: Roboto, serif;
+	line-height: 150%;
+	margin: 10px auto 20px;
+}
+
+a:link, a:visited {
+	color: #00ACEE;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #00ACEE;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.tiny {
+	font-size: .1em;
+	font-family: Roboto, Futura, sans-serif;
+	line-height: 1.6em;
+	margin: 0;
+	text-align: center;
+}
+
+.tinyhr {
+	font-size: .1em;
+}
+
+.smile {
+	font-size: 4em;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	line-height: 1em;
+	font-family: Roboto, sans-serif;
+}
